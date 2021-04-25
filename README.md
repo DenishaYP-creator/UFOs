@@ -1,5 +1,14 @@
 # UFOs
 
+# Deliverable 1 Requirements
+
+- The list element that creates the button is removed, and there are five list elements for filtering in the index.html file. (20 pt)
+- The event listener is modified to detect changes to each filter in the app.js file. (10 pt)
+- The updateFilters() function saves the element, value, and the id of the filter that was changed. (20 pt)
+- The filterTable() function loops through all of the filters and keeps any data that matches the filter values. (20 pt)
+- The webpage filters the table correctly based on user input. (20 pt)
+
+
 # Deliverable 2 Instructions
 For your written analysis, be sure to use complete and coherent sentences. Your written analysis should contain three sections, which cover the following:
 
